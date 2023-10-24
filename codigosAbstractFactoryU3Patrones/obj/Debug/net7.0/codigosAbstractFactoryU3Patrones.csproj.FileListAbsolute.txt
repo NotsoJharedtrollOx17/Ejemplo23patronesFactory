@@ -1,0 +1,14 @@
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\bin\Debug\net7.0\codigosAbstractFactoryU3Patrones.exe
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\bin\Debug\net7.0\codigosAbstractFactoryU3Patrones.deps.json
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\bin\Debug\net7.0\codigosAbstractFactoryU3Patrones.runtimeconfig.json
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\bin\Debug\net7.0\codigosAbstractFactoryU3Patrones.dll
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\bin\Debug\net7.0\codigosAbstractFactoryU3Patrones.pdb
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.AssemblyInfoInputs.cache
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.AssemblyInfo.cs
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.csproj.CoreCompileInputs.cache
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.dll
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\refint\codigosAbstractFactoryU3Patrones.dll
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.pdb
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\codigosAbstractFactoryU3Patrones.genruntimeconfig.cache
+C:\Users\abrah\Downloads\00_CodeProyects\codigosAbstractFactoryU3Patrones\obj\Debug\net7.0\ref\codigosAbstractFactoryU3Patrones.dll
